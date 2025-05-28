@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=GND Pin=R2-2
+Change Component Footprint: Designator=R2 Old Footprint=VR5 New Footprint=POT_PTN16-A20120K1B1
+Change Component Comment : Designator=R2 Old Comment=RPot New Comment=10k
+Change component parameters: Designator = "R2" ("R2"); Footprint = "VR5"; UniqueID = "\UTNPTZAA" ("\UTNPTZAA")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/PTN16-A20120K1B1/CUI+Devices/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "CUI_purchase_URL"; Value = "https://www.cuidevices.com/product/motion-and-control/potentiometers/rotary-potentiometers/ptn16-a20120k1b1?utm_source=snapeda.com&utm_medium=referral&utm_campaign=snapedaBOM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "CUI Devices"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "PTN16-A20120K1B1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/PTN16-A20120K1B1/CUI+Devices/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=R2-3
+Added Member To Class: ClassName=Piirikaavio Member=Component R7 RPot

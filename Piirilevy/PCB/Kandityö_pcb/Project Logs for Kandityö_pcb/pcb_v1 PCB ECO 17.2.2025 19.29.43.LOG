@@ -1,0 +1,3 @@
+Added Pin To Net: NetName=SCL Pin=U3-4
+Added Member To Class: ClassName=Piirikaavio Member=Component U1 ATMEGA328P-PU
+Added Member To Class: ClassName=Piirikaavio Member=Component U4 16x2 LCD-display

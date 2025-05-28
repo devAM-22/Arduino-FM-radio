@@ -1,0 +1,36 @@
+Change Component Footprint: Designator=Y1 Old Footprint=R38 New Footprint=XTAL_HC49P488W43L1150T466H350
+Change Component Comment : Designator=Y1 Old Comment=8 MHz New Comment=HC-49/U-S16000000ABJB
+Change component parameters: Designator = "Y1" ("Y1"); Footprint = "R38"; UniqueID = "\DVNBOCVQ" ("\DVNBOCVQ")
+Change component parameters (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/HC-49/U-S16000000ABJB/Citizen/view-part/?ref=eda"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MF"; Value = "Citizen Finedevice"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "MP"; Value = "HC-49/U-S16000000ABJB"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "HC-49/US Citizen Finetech Miyota"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/HC-49/U-S16000000ABJB/Citizen/view-part/?ref=snap"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=U4(TE_6-146276-6)
+Add component (AddParameter): Name = "Availability"; Value = "Warning"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Centerline_Pitch"; Value = "2.54 mm[.1 in]"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/6-146276-6/TE%20Connectivity/view-part/1438677/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "EU_RoHS_Compliance"; Value = "Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "6-146276-6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number_of_Positions"; Value = "16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Product_Type"; Value = "Connector"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/6-146276-6/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/6-146276-6/TE%20Connectivity/view-part/1438677/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=U4-1
+Added Pin To Net: NetName=VCC Pin=U4-2
+Added Pin To Net: NetName=VCC Pin=U4-3
+Added Pin To Net: NetName=RS Pin=U4-4
+Added Pin To Net: NetName=GND Pin=U4-5
+Added Pin To Net: NetName=E Pin=U4-6
+Added Pin To Net: NetName=D4 Pin=U4-11
+Added Pin To Net: NetName=D5 Pin=U4-12
+Added Pin To Net: NetName=D6 Pin=U4-13
+Added Pin To Net: NetName=D7 Pin=U4-14
+Added Pin To Net: NetName=VCC Pin=U4-15
+Added Pin To Net: NetName=GND Pin=U4-16
+Added Member To Class: ClassName=Piirikaavio Member=Component U4 16x2 LCD-display
