@@ -1,5 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=L1-2
-Added Pin To Net: NetName=Antenna Si4703 Pin=L1-2
-Added Net: Name=Antenna Si4703
-Added Member To Class: ClassName=Piirikaavio Member=Component C6 Cap Pol1
-Added Room: Name=Piirikaavio

@@ -1,4 +1,0 @@
-Removed Pin From Net: NetName=GND Pin=R7-1
-Removed Pin From Net: NetName=VCC Pin=R7-2
-Removed Member From Class: ClassName=Piirikaavio Member=R7
-Added Pin To Net: NetName=VCC Pin=U4-3
