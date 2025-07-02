@@ -56,7 +56,7 @@ Tämä GitHub-repositorio sisältää kandidaatintyöni, jonka aiheena on Arduin
 
 
 
-\Aapo Manni  
+Aapo Manni  
 
 📧 manni.aapo@gmail.com  
 
