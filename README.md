@@ -20,7 +20,7 @@ Tämä GitHub-repositorio sisältää kandidaatintyöni, jonka aiheena on Arduin
 
 \- `Ohjelma/` – Sisältää laitteeseen luodun pääohjelman sekä SparkFun Electronicsin Si4703\_breakout-kirjaston  
 
-\- `Piirilevy/` – Altium Designerilla luodut osasijoittelukuvat sekä piirilevyn valotusmaski  
+\- `Piirilevy/` – Sisältää Altium Designerilla luodut osasijoittelukuvat sekä piirilevyn valotusmaskin  
 
 \- `Kandidaatintyö.pdf` – Valmis raportti  
 
